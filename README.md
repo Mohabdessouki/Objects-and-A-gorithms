@@ -1,2 +1,2 @@
-# Objects-and-A-gorithms
+# Objects-and-Algorithms
 Georgia Institute (Computing in Python)
